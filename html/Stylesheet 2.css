@@ -1,0 +1,92 @@
+h1.H1 {
+	
+	font-size: 30px;
+	color: red;
+	font-family: Agency FB;
+	margin: 0;
+	float: left;
+	padding: 6px 8px;
+	
+}
+
+ul.U1 {
+  list-style-type: none;
+  margin-top: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li.L1 a {
+  float: right;
+}
+
+li.L1 a	 {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li.L1 a:hover {
+  background-color: #111;
+}
+
+Body {
+	
+	background-color:#333;
+	
+}
+
+h1.H2 {
+	
+	font-size:65;
+	font-family:Agency FB;
+	color:red;
+	Font-size:100px;
+	
+}
+
+div.d1 {
+	
+	text-align:Center;
+	
+}
+
+div.button {
+	width: 100%;
+}
+
+.button a	 {
+	margin: auto;
+  display: block;
+  color: white;
+  width: 100px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: red;
+}
+
+/* Change the link color to #111 (black) on hover */
+.button a:hover {
+  background-color: #600606;
+}
+
+p.P1 {
+	
+	font-family: Arial Unicode MS Regular;
+	line-height: 2.0em;
+	color:white;
+	
+}
+
+a.b1 {
+	
+	color:red;
+	
+}
+
+
